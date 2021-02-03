@@ -7,7 +7,7 @@ CFonts.say('TERMUX WHATSAPP BOT', {
   align: 'center',
   gradient: ['red', 'magenta']
 })
-CFonts.say('\'Instagram:\' _ahhmad_.f', {
+CFonts.say('\'Instagram:\' abbas_x_ploite', {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']
