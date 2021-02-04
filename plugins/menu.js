@@ -79,8 +79,8 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╭════•›「 Sosmed 」
 ╿ Github :
 ╿ Rahasia Tod
-╿ Youtube : AhmadGans
-╿ Instagram : @_ahhmad_.f
+╿ Youtube : AbbasGans
+╿ Instagram : @abbas_x_ploite
 ╰═══════════════
 
 ╭════•›「 Rules 」
